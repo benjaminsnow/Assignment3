@@ -103,6 +103,141 @@ To further clean up the table we rename the METRO IDs and allocate the real city
 
 # Clean city table, insert city and country names
 
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE001" , "Berlin")
 oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE002" , "Hamburg")
 oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE003" , "Munich")
@@ -128,6 +263,8 @@ oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "US048" , "Boston")
 oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "US084" , "New York")
 oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "US146" , "San Francisco")
 oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "US234" , "Austin")
+
+oecd$METRO_ID <- replace(oecd$METRO_ID , oecd$METRO_ID == "DE035" , "Karlsruhe")
 
 ```
 
